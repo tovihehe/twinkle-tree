@@ -25,8 +25,8 @@ python main.py
 - Interact with the talking snowman through dialogue.
 - Help the snowman light up the Christmas tree by finding and pressing the button.
 - Enjoy the festive pixel art visuals and simple gameplay mechanics.
-![Captura de pantalla 2024-12-31 162009](https://github.com/user-attachments/assets/766265bb-8821-4a3a-99d3-19c7c74816ce)
-![Captura de pantalla 2024-12-31 162024](https://github.com/user-attachments/assets/d04233cd-3c24-4a99-913c-f814549d82b5)
+  
+![image](https://github.com/user-attachments/assets/a48d0b7d-ac7a-463b-8a5d-c70a774aca96)
 
 
 ## Contributing
